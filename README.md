@@ -6,8 +6,8 @@ A 2d lighting engine
 Dependencies
 ============
 
-GLFW - http://www.glfw.org/
-OpenGL
+-GLFW - http://www.glfw.org/
+-OpenGL
 
 Building
 ========
